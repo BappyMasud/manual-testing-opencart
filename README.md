@@ -20,8 +20,8 @@ This project demonstrates manual testing of an e-commerce web application (OpenC
 
 <h2 align="left">📂 Project Artifacts</h2>
 
-| Document | Description |
-|----------|--------------|
-| Test Plan | Testing strategy and scope |
+| Document | Description | File-location |
+|----------|--------------|-------------|
+| Test Plan | Testing strategy and scope | https://drive.google.com/drive/folders/1jwK2QqIBafBEsAIkfYy2Zck69WLFjEyS?usp=sharing |
 | Test Cases | Detailed test scenarios |
 | Bug Report | List of identified defects |
